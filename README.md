@@ -134,23 +134,49 @@ This repository contains a comprehensive collection of data science projects dem
 Elvvo-Tasks/
 ├── Task 3/                    # RFM Analysis
 │   ├── data/
+│   │   └── README.md          # Data source information
 │   ├── RFM Analysis.ipynb
 │   └── README.md
 ├── Task 4/                    # Kaggle Survey Analysis
 │   ├── data/
+│   │   └── README.md          # Data source information
 │   ├── task.ipynb
 │   ├── task4_outputs/
 │   └── README.md
 ├── Task 5/                    # Chinook Database Analysis
 │   ├── data/
+│   │   └── README.md          # Data source information
 │   ├── chinook_analysis.ipynb
 │   └── README.md
 ├── Task 7/                    # Retail Sales Time Series
 │   ├── data/
+│   │   └── README.md          # Data source information
 │   ├── Retail Sales.ipynb
 │   └── README.md
 └── README.md                  # This file
 ```
+
+## 📊 Data Sources
+
+### Task 3: RFM Analysis
+- **Dataset:** [Online Retail (UCI ML Repository)](https://archive.ics.uci.edu/dataset/352/online+retail)
+- **Size:** 541,909 transactions, 22.6 MB
+- **Period:** 01/12/2010 to 09/12/2011
+
+### Task 4: Kaggle Survey Analysis
+- **Dataset:** [Kaggle Data Science Survey 2017-2021](https://www.kaggle.com/datasets/andradaolteanu/kaggle-data-science-survey-20172021)
+- **Size:** 100,000+ responses, 293+ variables
+- **Period:** 2017-2021
+
+### Task 5: Chinook Database Analysis
+- **Dataset:** [Chinook Database (Kaggle)](https://www.kaggle.com/datasets/ranasabrii/chinook)
+- **Type:** SQLite database with 11 tables
+- **Context:** Digital music store
+
+### Task 7: Retail Sales Time Series
+- **Dataset:** [Walmart Sales Forecast (Kaggle)](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast)
+- **Type:** Time series retail data
+- **Files:** train.csv, test.csv, stores.csv, features.csv
 
 ## 💼 Professional Summary
 
